@@ -4,7 +4,6 @@ This repository contains a reproducible analysis for recursive spectral modulari
 
 Contents
 - DSC212_Karate_Modularity.ipynb - runnable Jupyter notebook that performs the full analysis, saves figures and CSVs to outputs/, and writes src/helpers.py so the helper module is included.
-- src/helpers.py - helper functions for modularity spectral splitting and recursion (the notebook also writes this file when run).
 - requirements.txt - Python package requirements.
 - outputs/ - generated when you run the notebook/script (figures and CSVs).
 
